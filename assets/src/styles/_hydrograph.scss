@@ -1,0 +1,9 @@
+svg {
+    circle {
+        &:hover {
+            fill: darkgreen;
+            stroke: yellow;
+            r: 6px;
+        }
+    }
+}
